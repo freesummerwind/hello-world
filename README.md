@@ -1,5 +1,4 @@
 # hello-world
-Just a new repository
 
 Hey, guys!
 I'm here to become a cool programmer.
