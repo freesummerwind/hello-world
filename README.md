@@ -1,8 +1,8 @@
 # hello-world
 
-Hey, guys!
-I'm here to become a cool programmer.
+Hey, guys!  
+I'm here to become a cool programmer. 
 Let's have fun :)
-
-Yours,
+  
+Yours,  
 freesummerwind
